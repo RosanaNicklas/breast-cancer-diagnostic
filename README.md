@@ -8,6 +8,11 @@ Clinical-Grade Interface: Designed for medical professionals with proper termino
 
 Interactive Inputs: Sliders for tumor characteristics with clinical ranges
 
+<div align="center">
+  <img src="assets/breast1.png" alt="Evolución temporal 1" width="45%">
+  
+</div>
+
 Visual Analytics:
 
 Probability distributions
@@ -76,6 +81,9 @@ Wisconsin Breast Cancer Diagnostic Dataset from scikit-learn:
 569 samples (212 malignant, 357 benign)
 
 30 numeric features
+<div align="center">
+  <img src="assets/breast2.png" alt="Evolución temporal 2" width="45%">
+</div>
 
 📝 Clinical Disclaimer
 Important: This tool provides statistical predictions only. It is not a substitute for professional medical diagnosis. Always consult with a qualified healthcare provider for medical decisions.
