@@ -8,10 +8,11 @@ Clinical-Grade Interface: Designed for medical professionals with proper termino
 
 Interactive Inputs: Sliders for tumor characteristics with clinical ranges
 
+### 1. 🖥️ Pantalla Principal
 <div align="center">
-  <img src="assets/breast1.png" alt="Evolución temporal 1" width="45%">
-  
+  <img src="assets/breast1.png" alt="Interfaz principal" width="80%">
 </div>
+
 
 Visual Analytics:
 
