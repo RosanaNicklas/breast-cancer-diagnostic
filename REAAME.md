@@ -1,11 +1,10 @@
 # Breast Cancer Diagnostic Assistant 🎗️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit)](https://streamlit.io)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/4078c0/ffffff?text=Breast+Cancer+Diagnostic+System" alt="System Overview" width="85%">
+  <img src="assets/breast1.png" alt="System Overview" width="85%">
 </div>
 
 ## 🏥 Clinical Decision Support System
@@ -41,7 +40,7 @@ A **state-of-the-art** web application for predicting breast cancer malignancy p
 ## 🚀 Deployment Guide
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11
 - pip package manager
 
 ### Installation
@@ -81,7 +80,7 @@ Worst smoothness
 
 [25 additional tumor characteristics...]
 
-<div align="center"> <img src="assets/feature_importance.png" alt="Feature Importance" width="60%"> </div>
+<div align="center"> <img src="assets/breast2.png.png" alt="Feature Importance" width="60%"> </div>
 📂 Data Provenance
 Wisconsin Breast Cancer Diagnostic Dataset
 
@@ -126,9 +125,8 @@ Open a Pull Request
 This project is licensed under the MIT License - see LICENSE.md for details.
 
 📬 Contact Information
-Clinical Inquiries:
-Dr. Rosana Longares
-📧 rosana8longares@gmail.com
+
+rosana8longares@gmail.com
 
 Technical Support:
-GitHub Issues: github.com/RosanaNicklas/breast-cancer-diagnostic/issues
+GitHub Issues: github.com/RosanaNicklas/breast-cancer-diagnostic
