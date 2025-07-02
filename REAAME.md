@@ -80,7 +80,10 @@ Worst smoothness
 
 [25 additional tumor characteristics...]
 
-<div align="center"> <img src="assets/breast2.png.png" alt="Feature Importance" width="60%"> </div>
+<div align="center">
+  <img src="assets/breast2.png" alt="System Overview" width="85%">
+</div>
+
 📂 Data Provenance
 Wisconsin Breast Cancer Diagnostic Dataset
 
