@@ -39,7 +39,7 @@ Data Handling	Pandas, NumPy
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/breast-cancer-diagnostic.git
+git clone https://github.com/RosanaNicklas/breast-cancer-diagnostic
 cd breast-cancer-diagnostic
 Create and activate virtual environment:
 
