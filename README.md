@@ -1,7 +1,6 @@
 📌 Overview
 A professional web application for predicting breast cancer malignancy based on tumor characteristics, designed for clinical use by medical professionals.
 
-https://via.placeholder.com/800x400?text=Breast+Cancer+Diagnostic+Assistant
 
 ✨ Features
 Clinical-Grade Interface: Designed for medical professionals with proper terminology
@@ -104,8 +103,6 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 📧 Contact
-For clinical inquiries or technical support:
 
-Dr. Rosana Longares - rosana.longares@example.com
+Rosana Longares - rosana8longares@gmail.com
 
-Technical Support - support@breastcancerdiagnostic.com# breast-cancer-diagnostic
